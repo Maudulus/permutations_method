@@ -1,0 +1,10 @@
+The String Permutation Verification method takes in two strings and determines whether or not the second string, "variable_string", is a permutation of the first string "absolute_string". 
+
+
+If the second string is a permutation, the method will output the response telling you so, otherwise the method will output a response telling you that it is not so. 
+
+EXAMPLES: 
+
+fdsa IS a permutation of asdf.
+
+fdsa IS NOT a permutation of asdffd.
