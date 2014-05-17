@@ -22,8 +22,6 @@ def string_permutation_verification(absolute_string,variable_string)
 end
 string_permutation_verification("asdf", "fdsa")
 puts ""
-string_permutation_verification("asdffd", "fdsa")
-puts ""
 string_permutation_verification("rhino", "hinros")
 puts ""
 string_permutation_verification("ardvark", "dravark")
