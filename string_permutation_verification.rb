@@ -8,7 +8,6 @@ def string_permutation_verification(absolute_string,variable_string)
 		variable_string_array.each do |x|
 			absolute_string_array.each do |y|
 				if variable_string_array.each.count(x) == absolute_string_array.each.count(x)
-
 				else
 					count += 1
 				end
