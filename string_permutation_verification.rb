@@ -32,3 +32,5 @@ puts ""
 string_permutation_verification("trex", "texa")
 puts ""
 string_permutation_verification("ssas", "aasa")
+puts ""
+string_permutation_verification("jjjjjjjjja", "aaaaaaajaa")
