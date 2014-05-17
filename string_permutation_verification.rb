@@ -1,4 +1,3 @@
-
 def string_permutation_verification(absolute_string,variable_string)
   if absolute_string.length != variable_string.length
 	  puts "#{variable_string} IS NOT a permutation of #{absolute_string}."
